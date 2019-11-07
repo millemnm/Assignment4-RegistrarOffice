@@ -40,4 +40,8 @@ g++ *.cpp
   https://www.thecodingdelight.com/linked-list-data-structure/
   https://www.geeksforgeeks.org/inheritance-in-c/
   http://www.cplusplus.com/forum/general/158547/
+  https://stackoverflow.com/questions/42940978/segmentation-fault-doubly-linked-list-c
+  https://www.thecodingdelight.com/doubly-linked-list/
+  
+  
   
