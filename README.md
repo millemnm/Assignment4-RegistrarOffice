@@ -15,7 +15,21 @@ g++ *.cpp
 ## Files:
   main.cpp
   
-  GenStack.h
+  GenQueue.h
+  
+  DList.h
+  
+  Run.h
+  
+  Run.cpp
+  
+  Window.h
+  
+  Window.cpp
+  
+  Student.h
+  
+  Student.cpp
   
   
 ## Known Issues:
